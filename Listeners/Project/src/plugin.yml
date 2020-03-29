@@ -1,0 +1,5 @@
+name: Listeners
+version: 1.1
+author: Cruxial
+main: me.cruxial.listeners.Main
+description: Minecraft join messages.

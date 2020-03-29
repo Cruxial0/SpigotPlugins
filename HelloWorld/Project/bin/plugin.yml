@@ -1,0 +1,10 @@
+name: HelloWorld
+version: 1.0
+author: Cruxial
+main: me.cruxial.helloworld.Main
+description: My first Minecraft plugin.
+
+commands:
+  hello:
+    aliases: [hi]
+    description: This is the hello command!
